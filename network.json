@@ -1,0 +1,24 @@
+{
+   "files": [    
+
+
+
+{
+         "name": "TH-Dtac-01",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d1.ovpn"
+      }
+,
+{
+         "name": "TH-True-01",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/t5.ovpn"
+      }
+
+
+
+   ],
+"message":"
+နေကောင်းကြလား
+\n\nversion3",
+"title":"New Update File" ,
+   "version":3
+}
