@@ -6,7 +6,7 @@
 
 {
          "name": "TH-DTAC-VPS-FREE",
-         "url": "https://raw.githubusercontent.com/minmahar2580/products-1/main/DTAC-VPS.ovpn"
+         "url": "https://raw.githubusercontent.com/minmahar2580/products-1/main/TH.DTAC-VPS-FREE-1.ovpn"
       }
 ,
 
@@ -25,10 +25,11 @@
 
    ],
 "message":"
-🔵DTAC NOPRO
-🔴DTAC NOPRO
+ DTAC TRUE 
+ DTAC NOPRO VIP
+ DTAC VIP FREE
 📤ဖိုင်တင်ရက် 31/12/2022
 \n\nFb: Ta Tha Na",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":3
+   "version":4
 }
