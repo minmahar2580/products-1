@@ -5,19 +5,25 @@
 
 
 {
-         "name": "SG-DTAC-TRUE-NOPRO",
-         "url": "https://raw.githubusercontent.com/minmahar2580/products-1/main/TH.DTAC-VPS-FREE-1.ovpn"
-      }
-,
-
-{
-         "name": "TH-DTAC-VIP 1",
+         "name": "TH-D-T-VPS-VIP-1 ",
          "url": "https://raw.githubusercontent.com/minmahar2580/products-1/main/TH-DTAC-VIP%201.ovpn"
       }
 ,
 
 {
-         "name": "TH-DTAC-TRUE-FREE",
+         "name": " TH-D-T-NOPRO- FREE 1",
+         "url": "https://raw.githubusercontent.com/minmahar2580/products-1/main/TH-D-T-NOPRO.ovpn"
+      }
+      ,
+
+{
+         "name": " TH-D-T-NOPRO- FREE 2",
+         "url": "https://raw.githubusercontent.com/minmahar2580/products-1/main/TH-D-T-NOPRO-2.ovpn"
+      }
+,
+
+{
+         "name": "TH-TRUE-NOPRO-FREE 1",
          "url": "https://raw.githubusercontent.com/minmahar2580/products-1/main/TH-DTAC-TRUE-FREE.ovpn"
       }
 
@@ -26,10 +32,10 @@
    ],
 "message":"
 > အသုံးပြုနိုင်တဲ့ဆင်းမ်ကဒ် DTAC TRUE
-
-DTAC & TRUE ( SG-FREE-1ဖိုင် )
-DTAC & TRUE ( TH-FREE-1ဖိုင် )
-DTAC & TRUE ( TH-VIP-(1)ဖိုင်)
+ TH-D-T-VPS-VIP 1
+ TH-D-T-NOPRO- FREE 1
+ TH-D-T-NOPRO-FREE 2
+ TH-TRUE-NOPRO-FREE 1
 
 ဤအပ်ဒိတ်မက်ဆေ့ချ်ကို သင်မြင်ပါက အပ်ဒိတ်လုပ်ပါ OK ကိုနှိပ်လိုက်ပါ
 
@@ -39,8 +45,8 @@ DTAC & TRUE ( TH-VIP-(1)ဖိုင်)
 
 ကျနော်ရဲ့Cbသို့ဆက်သွယ်လာပါဗျ
 
-📤ဖိုင်တင်ရက် 12/01/2023
+ဖိုင်တင်ရက် 17/01/2023
 \n\nFb: Kyaw Thu Soe",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":6
+   "version":7
 }
