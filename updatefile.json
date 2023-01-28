@@ -1,24 +1,35 @@
-{
-   "files": [    
-
-
 
 {
-         "name": "TH-Dtac-01",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d1.ovpn"
-      }
-,
-{
-         "name": "TH-True-01",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/t5.ovpn"
-      }
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"1.2",
+//link for server update
+"Url":"https://protect-link.duckdns.org/new2.zip" ,
+"Changelog":"
+ဖိုင်တင်ရက် 28/01/2023
+အသုံးပြုရတဲ့ဆင်းမ် DTAC-TRUE
+ TH01-VIP-01
+ TH02-VIP-02
+ TH03-VIP-03
 
+အပ်ဒိတ်လုပ်ပါ ကိုနှိပ်လိုက်ပါ
+အပ်ဒိတ်ပြီးမြောက်သည်အထိစောင့်ပေးပါ
+ 
+VIP 1လမှ 50ဘတ်တည်းပါ
+ပြဿနာတစ်ခုခုကိုသတင်းပို့ချင်တာ
+ကျနော်ရဲ့Cbသို့ဆက်သွယ်လာပါဗျ
 
-
-   ],
-"message":"
-ကြိုက်တာရေးထည့်ပါ
-\n\nversion1",
-"title":"New Update File" ,
-   "version":1
+",
+ 
+ 
+ 
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
 }
