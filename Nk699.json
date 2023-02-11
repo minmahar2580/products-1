@@ -2,25 +2,19 @@
    "files": [    
 
 {
-         "name": "TH02-DTAC-TRUE-VIP-02 ",
+         "name": "TH02-DTAC-TRUE-VIP-02",
          "url": "https://raw.githubusercontent.com/minmahar2580/products-1/main/TH-DTAC-VIP-02.ovpn"
       }
 ,
 
 {
-         "name": " TH01-DTAC-TRUE-VIP-01",
+         "name": "TH01-DTAC-TRUE-VIP-01",
          "url": "https://raw.githubusercontent.com/minmahar2580/products-1/main/TH-DTAC-VIP%201.ovpn"
-      }
-,
-     
-{
-         "name": " TH03-TRUE-TRUE-VIP-03",
-         "url": "https://raw.githubusercontent.com/minmahar2580/products-1/main/TH03-TRUE-VIP-03.ovpn"
       }
 ,
 
 {
-         "name": "TH04-DTAC-TRUE-VIP-04 ",
+         "name": "TH03-DTAC-TRUE-VIP-03",
          "url": "https://raw.githubusercontent.com/minmahar2580/products-1/main/TH-DTAC-TRUE-VIP-04.ovpn"
       }
   ],
@@ -29,7 +23,6 @@
  TH01-DTAC-TRUE-VIP-01
  TH02-DTAC-TRUE-VIP-02
  TH03-DTAC-TRUE-VIP-03
- TH04-DTAC-TRUE-VIP-04
 
 အပ်ဒိတ်လုပ်ပါ ကိုနှိပ်လိုက်ပါ
 အပ်ဒိတ်ပြီးမြောက်သည်အထိစောင့်ပေးပါ
@@ -41,5 +34,5 @@ VIP 1လမှ 50ဘတ်တည်းပါ
 ဖိုင်တင်ရက် 11/02/2023
 \n\nFb: Kyaw Thu Soe",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":5
+   "version":6
 }
