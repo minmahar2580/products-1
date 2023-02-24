@@ -17,13 +17,31 @@
          "name": "TH03-DTAC-TRUE-VIP-03",
          "url": "https://raw.githubusercontent.com/minmahar2580/products-1/main/TH-DTAC-TRUE-VIP-04.ovpn"
       }
+,
+      
+      {
+         "name": "TH04-DTAC-TRUE-VIP-04",
+         "url": "https://raw.githubusercontent.com/minmahar2580/products-1/main/TH04-DTAC-TRUE-VIP-04.ovpn"
+      }
+,
+
+{
+         "name": "TH05-DTAC-TRUE-VIP-05",
+         "url": "https://raw.githubusercontent.com/minmahar2580/products-1/main/TH05-DTAC-TRUE-VIP-05.ovpn"
+      }
+,
+
+{
+         "name": "TH06-DTAC-TRUE-FREE-06",
+         "url": "https://raw.githubusercontent.com/minmahar2580/products-1/main/TH06-DTAC-TRUE-FREE-06.ovpn"
+      }
   ],
 "message":"
 အသုံးပြုရတဲ့ဆင်းမ် DTAC-TRUE
- TH01-DTAC-TRUE-VIP-01
- TH02-DTAC-TRUE-VIP-02
- TH03-DTAC-TRUE-VIP-03
-
+ TH-SRVER
+ VIP-01 VIP-02 VIP-03
+ VIP-04 VIP-05 FREE-06
+ 
 အပ်ဒိတ်လုပ်ပါ ကိုနှိပ်လိုက်ပါ
 အပ်ဒိတ်ပြီးမြောက်သည်အထိစောင့်ပေးပါ
  
@@ -31,8 +49,9 @@ VIP 1လမှ 50ဘတ်တည်းပါ
 ပြဿနာတစ်ခုခုကိုသတင်းပို့ချင်တာ
 ကျနော်ရဲ့Cbသို့ဆက်သွယ်လာပါဗျ
 
-ဖိုင်တင်ရက် 11/02/2023
+ဖိုင်တင်ရက် 24/02/2023
 \n\nFb: Kyaw Thu Soe",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":6
+   "version":7
 }
+
